@@ -1,0 +1,17 @@
+$date
+  Fri Mar 28 18:41:20 2025
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$enddefinitions $end
+#0
+0!
+0"
+0#

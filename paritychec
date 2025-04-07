@@ -1,0 +1,72 @@
+$date
+  Sat Mar 01 10:41:56 2025
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 1 $ d $end
+$var reg 1 % even_parity $end
+$var reg 1 & odd_parity $end
+$scope module uut $end
+$var reg 1 ' a $end
+$var reg 1 ( b $end
+$var reg 1 ) c $end
+$var reg 1 * d $end
+$var reg 1 + even_parity $end
+$var reg 1 , odd_parity $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+1&
+0'
+0(
+0)
+0*
+0+
+1,
+#10000000
+1$
+1%
+0&
+1*
+1+
+0,
+#20000000
+1#
+0$
+1)
+0*
+#30000000
+1"
+0#
+1(
+0)
+#40000000
+1!
+0"
+1'
+0(
+#50000000
+1"
+1#
+1(
+1)
+#60000000
+1$
+0%
+1&
+1*
+0+
+1,
+#70000000

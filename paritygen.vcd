@@ -1,0 +1,83 @@
+$date
+  Sat Mar 01 10:18:04 2025
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 1 $ pe $end
+$var reg 1 % po $end
+$scope module pgenerator $end
+$var reg 1 & a $end
+$var reg 1 ' b $end
+$var reg 1 ( c $end
+$var reg 1 ) pe $end
+$var reg 1 * po $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+1%
+0&
+0'
+0(
+0)
+1*
+#1000000
+1#
+1$
+0%
+1(
+1)
+0*
+#2000000
+1"
+0#
+1'
+0(
+#3000000
+1#
+0$
+1%
+1(
+0)
+1*
+#4000000
+1!
+0"
+0#
+1$
+0%
+1&
+0'
+0(
+1)
+0*
+#5000000
+1#
+0$
+1%
+1(
+0)
+1*
+#6000000
+1"
+0#
+1'
+0(
+#7000000
+1#
+1$
+0%
+1(
+1)
+0*
+#8000000

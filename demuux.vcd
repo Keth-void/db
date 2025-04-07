@@ -1,0 +1,65 @@
+$date
+  Sat Mar 08 11:17:21 2025
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! i $end
+$var reg 1 " s0 $end
+$var reg 1 # s1 $end
+$var reg 1 $ o0 $end
+$var reg 1 % o1 $end
+$var reg 1 & o2 $end
+$var reg 1 ' o3 $end
+$scope module demultiplexer1to4 $end
+$var reg 1 ( i $end
+$var reg 1 ) s0 $end
+$var reg 1 * s1 $end
+$var reg 1 + o0 $end
+$var reg 1 , o1 $end
+$var reg 1 - o2 $end
+$var reg 1 . o3 $end
+$upscope $end
+$enddefinitions $end
+#0
+1!
+0"
+0#
+1$
+0%
+0&
+0'
+1(
+0)
+0*
+1+
+0,
+0-
+0.
+#1000000
+1#
+0$
+1%
+1*
+0+
+1,
+#2000000
+1"
+0#
+0%
+1&
+1)
+0*
+0,
+1-
+#3000000
+1#
+0&
+1'
+1*
+0-
+1.
+#4000000

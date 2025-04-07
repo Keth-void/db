@@ -1,0 +1,94 @@
+v 4
+file . "andag.vhdl" "16a810ebe165b33e725ebb1fdb03a536c74355ef" "20250328125137.473":
+  entity andag at 1( 0) + 0 on 149;
+  architecture behave of andag at 12( 150) + 0 on 150;
+file . "nor_gate.vhdl" "6bab91d0290593e38474aba41f68dc45db3c1af6" "20250308162416.732":
+  entity nor_gate at 1( 0) + 0 on 145;
+  architecture behavior of nor_gate at 12( 184) + 0 on 146;
+file . "nand_gate.vhdl" "681c8bba3cf21fc67230d354084b283ddecf9589" "20250308162403.834":
+  entity nand_gate at 1( 0) + 0 on 141;
+  architecture behavior of nand_gate at 12( 186) + 0 on 142;
+file . "alu.vhdl" "cbda4694450baafd7d49484610b9e585ac79634c" "20250308144652.788":
+  entity alu at 1( 0) + 0 on 137;
+  architecture behavioral of alu at 10( 245) + 0 on 138;
+file . "encoder_tb.vhdl" "ac82dd1907a20df0852b0900f094a56ddf6fbd36" "20250308084236.745":
+  entity encoder_tb at 1( 0) + 0 on 113;
+  architecture test of encoder_tb at 7( 88) + 0 on 114;
+file . "demux_tb.vhdl" "1494c2a6675759c32317e50c3a921a2ab2ceb385" "20250308053216.851":
+  entity demux_tb at 1( 0) + 0 on 105;
+  architecture test of demux_tb at 5( 80) + 0 on 106;
+file . "mux_tb.vhdl" "3a07ca3bed9cb219033b86e9fad8a91b3fcf2374" "20250308052011.286":
+  entity mux_tb at 1( 0) + 0 on 93;
+  architecture test of mux_tb at 5( 76) + 0 on 94;
+file . "decoder.vhdl" "990de5fce5d920663de50669e80d6e2af957a556" "20250308085038.213":
+  entity decoder at 1( 0) + 0 on 125;
+  architecture behave of decoder at 11( 181) + 0 on 126;
+file . "or.vhdl" "d780e03251c08ed64d84488977de215efd30771b" "20250301135051.845":
+  entity or_gate at 1( 0) + 0 on 77;
+  architecture behavioral of or_gate at 11( 147) + 0 on 78;
+file . "logic_tb.vhdl" "ae6f7310b377dc9d5cb31905f4bc932dc19300ff" "20250301135213.703":
+  entity tb_logic_gates at 1( 0) + 0 on 81;
+  architecture behavioral of tb_logic_gates at 7( 96) + 0 on 82;
+file . "fa_tb.vhdl" "099231994dce85d7feef48c9597cfee721d52adc" "20250301051550.670":
+  entity fa_tb at 1( 0) + 0 on 45;
+  architecture behavioral of fa_tb at 7( 78) + 0 on 46;
+file . "ha.vhdl" "194bc03f53d6e025f8d80f484cc0d99840a5d517" "20250301050935.544":
+  entity ha at 1( 0) + 0 on 41;
+  architecture behavioral of ha at 11( 146) + 0 on 42;
+file . "pche.vhdl" "297654f7b1e57ca2101261707aba507aad1627d7" "20250301045624.585":
+  entity pche at 1( 0) + 0 on 37;
+  architecture behavioral of pche at 12( 188) + 0 on 38;
+file . "pgen_tb.vhdl" "b9e25dd14ceaf01d2fa1035ead0735b326601cfc" "20250301043219.929":
+  entity pgen_tb at 1( 0) + 0 on 31;
+  architecture test of pgen_tb at 7( 82) + 0 on 32;
+file . "ps_tb.vhdl" "920da28a8a7df24440381de5d2f978a783a31894" "20250222160137.743":
+  entity ps_tb at 1( 0) + 0 on 17;
+  architecture test of ps_tb at 7( 78) + 0 on 18;
+file . "pa_tb.vhdl" "034e7d23abcb2d62d668caec10b506fca8da5ede" "20250222113925.106":
+  entity pa_tb at 1( 0) + 0 on 13;
+  architecture test of pa_tb at 7( 82) + 0 on 14;
+file . "pa.vhdl" "bc84623e4e120fb631b4741e8368fe7af6ed7be4" "20250222113919.098":
+  entity pa at 1( 0) + 0 on 11;
+  architecture behave of pa at 14( 308) + 0 on 12;
+file . "ps.vhdl" "2e4f7141f6ae08e4ca8124c6d1219a3e7cbf14c4" "20250222160129.041":
+  entity ps at 1( 0) + 0 on 15;
+  architecture behave of ps at 14( 300) + 0 on 16;
+file . "pgen.vhdl" "d718fb99a4459325030af059ee4b8a22c4e82910" "20250301043216.180":
+  entity pgen at 1( 0) + 0 on 29;
+  architecture behavioral of pgen at 10( 143) + 0 on 30;
+file . "pche_tb.vhdl" "393e5b5039c7b21795efa8414d7339d0d809c39c" "20250301045626.395":
+  entity pche_tb at 1( 0) + 0 on 39;
+  architecture behavioral of pche_tb at 7( 82) + 0 on 40;
+file . "ha_tb.vhdl" "2adbef5d9550c52d21746562ab552c931ef40e4c" "20250301050939.689":
+  entity ha_tb at 1( 0) + 0 on 43;
+  architecture behavioral of ha_tb at 7( 78) + 0 on 44;
+file . "fa.vhdl" "a02a8f7589e5f7e79a41f1f90ff3acf99fc5720d" "20250301051554.480":
+  entity fa at 1( 0) + 0 on 47;
+  architecture behavioral of fa at 11( 150) + 0 on 48;
+file . "and.vhdl" "8e5ff3eadec3f46956aa5f8b74307fc41f516333" "20250301135012.290":
+  entity and_gate at 1( 0) + 0 on 75;
+  architecture behavioral of and_gate at 11( 149) + 0 on 76;
+file . "not.vhdl" "d3b63db2994241afafd01401f563f3d90fd5f80a" "20250301135124.789":
+  entity not_gate at 1( 0) + 0 on 79;
+  architecture behavioral of not_gate at 11( 146) + 0 on 80;
+file . "decoder_tb.vhdl" "abe65da2a4eaac7f48fd1a1b8d74be0baadadcca" "20250308085039.278":
+  entity decoder_tb at 1( 0) + 0 on 127;
+  architecture test of decoder_tb at 7( 88) + 0 on 128;
+file . "mux.vhdl" "3c3d84df6348ead74a5e9691c3ed6e0eecc2e970" "20250308052009.811":
+  entity mux at 1( 0) + 0 on 91;
+  architecture behave of mux at 10( 130) + 0 on 92;
+file . "demux.vhdl" "60ddd2ac05fb440918cac1f20cb0ca36225be75c" "20250308053215.862":
+  entity demux at 1( 0) + 0 on 103;
+  architecture behave of demux at 11( 160) + 0 on 104;
+file . "encoder.vhdl" "cfb1b91a5287c44cbb502c7a2ef9d0fd95027967" "20250308084235.766":
+  entity encoder at 1( 0) + 0 on 111;
+  architecture behave of encoder at 11( 181) + 0 on 112;
+file . "alu_tb.vhdl" "116ac8ba20061b1186b8ef67cb9e189c7d4706a2" "20250308144653.355":
+  entity alu_tb at 1( 0) + 0 on 139;
+  architecture behavior of alu_tb at 8( 107) + 0 on 140;
+file . "xor_gate.vhdl" "a8118a4ed89e06fa05d85c6160deb64544c31662" "20250308162409.320":
+  entity xor_gate at 1( 0) + 0 on 143;
+  architecture behavior of xor_gate at 12( 184) + 0 on 144;
+file . "gate_tb.vhdl" "4e4735cb89569c4c6a9bd1e0db6a6480bf65985b" "20250308162556.856":
+  entity gate_tb at 1( 0) + 0 on 147;
+  architecture behavior of gate_tb at 7( 82) + 0 on 148;
